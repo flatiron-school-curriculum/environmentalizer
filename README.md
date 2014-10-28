@@ -28,12 +28,13 @@ environment. It assumes a fresh install of OS X 10.9 (Mavericks).
   * user
   * admin:public_key
   * gist
+5. A freshly installed OS. What this means is that you will need to wipe your computer to achieve this. We know this is scary, but it's better anyway to have an external harddrive that is home to all photos, music, videos, etc. Do it!
 
 ## Notes
 
 1. You'll need to run this script from an account with admin status. (DO NOT prepend `sudo` to the command below.)
 2. When the script first runs, you'll need to enter your admin password once.
-3. During installation, Sublime Text will open for a few seconds and then close automatically. Do not close it yourself. This step is required for some important directories to be created.
+3. During installation, Sublime Text will open for a few seconds and then close automatically. **Do not close it yourself.** This step is required for some important directories to be created.
 
 ## Usage
 
