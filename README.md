@@ -28,7 +28,7 @@ As you've been learning, your `.bash_profile` is a script that runs every time y
 
 Environmentalizer is going to set up the [Flatiron Bash Profile](https://github.com/flatiron-school/dotfiles/blob/master/bash_profile), which includes case-insensitive auto completion, a nice prompt with git branch awareness, and many useful shortcuts.
 
-Within that Bash Profile are comments that explain each part. **Make sure to read them!** You can always comment sections in/out to see what they do and how they effect your prompt, shell, and environment. When the script is done you can `subl .bash_profile` from your `~` directory to see what's inside and play around with it.
+Within that Bash Profile are comments that explain each part. **Make sure to read them!** You can always comment sections in/out to see what they do and how they effect your prompt, shell, and environment. When the script is done you can look in your Bash Profile from your `~` directory to see what's inside and play around with it.
 
 Just remember, to activate a change in the dotfile, you must **reload your shell**. You can do that via opening a new tab or typing `source .bash_profile` (from the `~` directory).
  
@@ -59,9 +59,9 @@ Once RVM is installed, if you want any other version of ruby, just type:
 
 `rvm install <version-number>`
 
-### Nitrous with Package Control, Solarized Theme, and proper tab defaults
+### Editors with Package Control, Solarized Theme, and proper tab defaults
 
-Nitrous's functionality can be greatly expanded via plugins called "packages." And we love the Solarized Theme because it's mathematically proven to be easy on your eyes.
+Editors' functionality can be greatly expanded via plugins called "packages." And we love the Solarized Theme because it's mathematically proven to be easy on your eyes.
 
 ### Sensible `.gitconfig`, `.gitignore`, `.gemrc`, and `.irbrc` files
 
