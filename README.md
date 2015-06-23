@@ -59,9 +59,9 @@ Once RVM is installed, if you want any other version of ruby, just type:
 
 `rvm install <version-number>`
 
-### Sublime Text 2.0 with Package Control, Solarized Theme, and proper tab defaults
+### Nitrous with Package Control, Solarized Theme, and proper tab defaults
 
-Sublime Text's functionality can be greatly expanded via plugins called "packages." And we love the Solarized Theme because it's mathematically proven to be easy on your eyes.
+Nitrous's functionality can be greatly expanded via plugins called "packages." And we love the Solarized Theme because it's mathematically proven to be easy on your eyes.
 
 ### Sensible `.gitconfig`, `.gitignore`, `.gemrc`, and `.irbrc` files
 
@@ -95,7 +95,7 @@ So you don't have to enter your username and password every time you want to pus
 
 1. You'll need to run this script from an account with admin status. (DO NOT prepend `sudo` to the command below.)
 2. When the script first runs, you'll need to enter your admin password once.
-3. During installation, Sublime Text will open for a few seconds and then close automatically. **Do not close it yourself.** This step is required for some important directories to be created.
+3. During installation, Nitrous will open for a few seconds and then close automatically. **Do not close it yourself.** This step is required for some important directories to be created.
 
 ## Usage
 
