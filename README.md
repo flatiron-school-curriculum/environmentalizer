@@ -101,4 +101,4 @@ So you don't have to enter your username and password every time you want to pus
 
 `curl -Lo- "https://raw.githubusercontent.com/flatiron-school/environmentalizer/master/bootstrap.sh" | bash`
 
-<a href='https://learn.co/lessons/environmentalizer' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/environmentalizer' title='Setting up our Environment with Environmentalizer'>Setting up our Environment with Environmentalizer</a> on Learn.co and start learning to code for free.</p>
